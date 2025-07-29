@@ -1,0 +1,4 @@
+jdbc:sqlserver://localhost:1433;databaseName=DormManegment01;encrypt=true;trustServerCertificate=true
+THE
+abcdefghijklmnopqerds
+d

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OOP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OOP_jar</output-path>
+    <root id="archive" name="OOP.jar">
+      <element id="module-output" name="OOP" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../sqljdbc_12.10/enu/jars/mssql-jdbc-12.10.0.jre11.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

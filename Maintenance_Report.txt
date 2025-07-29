@@ -1,0 +1,20 @@
+=== Maintenance Request Report ===
+
+Request ID       : 1
+Room ID          : 3
+Description      : Okea
+Date Reported    : 2025-07-27
+Reported By      : 1
+Status           : Pending
+Resolution Notes : null
+----------------------------------------
+Request ID       : 2
+Room ID          : 3
+Description      : this is the problem
+Date Reported    : 2025-07-27
+Reported By      : 1
+Status           : In Progress
+Resolution Notes : null
+----------------------------------------
+
+Report generated successfully.
